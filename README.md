@@ -1,6 +1,6 @@
 ### Hi! I'm Aryan Isaac Bhobe.
-#### 📫 How to reach me: Instagram: @isaac.aryan007 | Twitter: @isaac_aryan
-#### 🌱 I’m currently learning: Node.js and Reactjs
+#### Instagram: @isaac.aryan007 | Twitter: @isaac_aryan
+#### Currently learning: Dart
 <!--
 **isaac-aryan/isaac-aryan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
