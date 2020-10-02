@@ -1,6 +1,5 @@
 ### Hi! I'm Aryan Isaac Bhobe.
 #### Instagram: @isaac.aryan007 | Twitter: @isaac_aryan
-#### Currently learning: Dart
 <!--
 **isaac-aryan/isaac-aryan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
